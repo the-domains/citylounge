@@ -1,7 +1,7 @@
 name: CityLounge
 favicon: null
-layout_spectrum: 0.42368444218300283
-typography_spectrum: 0.030404216842725873
+layout_spectrum: 0.06987
+typography_spectrum: 0.32489
 title: CityLounge
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#020202'
+    - '#2e70ac'
+    - '#91bdd8'
+    - '#a59272'
+    - '#e7e9e8'
   brandStrength: 0.14757646154612303
   lightness: 0.6548770945519209
   saturation: 0.4676586196292192
