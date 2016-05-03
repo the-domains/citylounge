@@ -1,0 +1,28 @@
+name: CityLounge
+favicon: null
+layout_spectrum: 0.42368444218300283
+typography_spectrum: 0.030404216842725873
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.14757646154612303
+  lightness: 0.6548770945519209
+  saturation: 0.4676586196292192
+  rhythmicContrast: 0.934314465848729
+purpose: []
