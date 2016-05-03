@@ -2,6 +2,7 @@ name: CityLounge
 favicon: null
 layout_spectrum: 0.42368444218300283
 typography_spectrum: 0.030404216842725873
+title: CityLounge
 cta:
   domain: null
   bucket: null
