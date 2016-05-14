@@ -1,41 +1,41 @@
-name: CityLounge
-favicon: null
-layout_spectrum: 0.86864
-typography_spectrum: 0.30158
 title: CityLounge
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0
+  brandStrength: 1
+  lightness: 0
+  brandColors:
+    - '#040308'
+    - '#F71A11'
+    - '#DADBD3'
+    - '#393E38'
+    - '#6D726C'
+  rhythmicContrast: 0
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: CityLounge
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#020202'
-    - '#2e70ac'
-    - '#91bdd8'
-    - '#a59272'
-    - '#e7e9e8'
-  brandStrength: 0
-  lightness: 0
-  saturation: 0
-  rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0.30158
+layout_spectrum: 0.2258064
