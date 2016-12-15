@@ -1,5 +1,33 @@
-title: CityLounge
-purpose: []
+typography_spectrum: 0.22338
+color:
+  saturation: 0.4731183
+  brandStrength: 1
+  lightness: 0.4086021
+  brandColors:
+    - '#030503'
+    - '#3979B6'
+    - '#97C0D9'
+    - '#807259'
+    - '#54585B'
+  rhythmicContrast: 0.4139785
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9333895
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+author:
+  name: Alexander Czernay
+name: CityLounge
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +40,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.4731183
-  brandStrength: 1
-  lightness: 0.4086021
-  brandColors:
-    - '#030503'
-    - '#3979B6'
-    - '#97C0D9'
-    - '#807259'
-    - '#54585B'
-  rhythmicContrast: 0.4139785
-cta:
-  bucket: null
-  version: null
-  domain: null
-name: CityLounge
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.22338
-layout_spectrum: 0.9333895
+title: CityLounge
+content: []
+purpose: []
